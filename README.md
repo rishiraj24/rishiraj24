@@ -1,16 +1,47 @@
-## Hi there 👋
+### Hi, I'm Rishi Raj 👋
 
-<!--
-**rishiraj24/rishiraj24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-Stack Developer building scalable web applications, with a growing focus on backend systems, clean architecture, and applied ML.
 
-Here are some ideas to get you started:
+Currently: sharpening Data Structures & Algorithms, going deeper on backend/system design, and building applied ML/LLM projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Tech Stack
+
+**Languages:** Python · JavaScript · TypeScript · SQL
+
+**Frontend:** React · Next.js · Tailwind CSS
+
+**Backend:** Node.js · Express.js · FastAPI
+
+**Databases:** MongoDB · PostgreSQL · MySQL · Firestore
+
+**AI/ML:** LLM Integration · Prompt Engineering · Resume Parsing · Async AI Pipelines
+
+**Cloud/DevOps:** Docker · AWS · GitHub Actions · Linux · Git
+
+---
+
+### Featured Projects
+
+**🏢 BizFlow — ERP System for SMBs**
+Full-stack ERP (Node.js, Express, MongoDB, Docker) built for a freelance client and actively in use — inventory, billing, client relationship tracking, Google Calendar-integrated scheduling, role-based access control, containerized deployment.
+`[repo link]`
+
+**🏛️ JanSevak — Government Complaint Management System**
+Built for Smart India Hackathon. Team project — I built the FastAPI backend (WhatsApp webhook integration, complaint workflow, database schema) and the React/TypeScript admin dashboard (geographic analytics, Mapbox heatmaps, department-wise statistics). AI chatbot layer (LangChain/Gemini) built by a teammate.
+`[repo link]`
+
+**🔍 HireLens — AI Recruitment Platform**
+LLM-powered resume analysis system (Python, FastAPI, React) — skill/gap extraction, structured candidate scoring, async bulk resume processing, recruiter dashboard with role-based access, browser-based video interview capture.
+`[repo link]`
+
+---
+
+### Currently Learning
+Data Structures & Algorithms (pattern-based, structured 90-day plan) · System Design fundamentals · Backend engineering depth
+
+---
+
+### 📫 Let's Connect
+[LinkedIn](https://www.linkedin.com/in/rishirajsingh24/) · [Portfolio](https://rishirajsingh.online) · rishirsk03@gmail.com
