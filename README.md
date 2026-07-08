@@ -24,17 +24,30 @@ Currently: sharpening Data Structures & Algorithms, going deeper on backend/syst
 
 ### Featured Projects
 
-**🏢 BizFlow — ERP System for SMBs**
-Full-stack ERP (Node.js, Express, MongoDB, Docker) built for a freelance client and actively in use — inventory, billing, client relationship tracking, Google Calendar-integrated scheduling, role-based access control, containerized deployment.
-`[BizFlow- ERP](https://github.com/rishiraj24/ERP-Bizflow/tree/main)`
+### Featured Projects
 
-**🏛️ JanSevak — Government Complaint Management System**
-Built for Smart India Hackathon. Team project — I built the FastAPI backend (WhatsApp webhook integration, complaint workflow, database schema) and the React/TypeScript admin dashboard (geographic analytics, Mapbox heatmaps, department-wise statistics). AI chatbot layer (LangChain/Gemini) built by a teammate.
-`[JanSevak](https://github.com/rishiraj24/JanSevak)`
+#### 🏢 **BizFlow — ERP System for SMBs**
 
-**🔍 HireLens — AI Recruitment Platform**
-LLM-powered resume analysis system (Python, FastAPI, React) — skill/gap extraction, structured candidate scoring, async bulk resume processing, recruiter dashboard with role-based access, browser-based video interview capture.
-`[HireLens](https://github.com/rishiraj24/AI-interview-admin-dashboard)`
+Full-stack ERP (Node.js, Express.js, MongoDB, Docker) built for a freelance client and actively in use, featuring inventory management, billing, client relationship tracking, Google Calendar-integrated scheduling, role-based access control, and containerized deployment.
+
+**Repository:** [BizFlow ERP](https://github.com/rishiraj24/ERP-Bizflow)
+
+---
+
+#### 🏛️ **JanSevak — Government Complaint Management System**
+
+Built for Smart India Hackathon. I developed the FastAPI backend (WhatsApp webhook integration, complaint workflow, database schema) and the React/TypeScript admin dashboard with geographic analytics, Mapbox heatmaps, and department-wise statistics. The AI chatbot layer (LangChain/Gemini) was developed by a teammate.
+
+**Repository:** [JanSevak](https://github.com/rishiraj24/JanSevak)
+
+---
+
+#### 🔍 **HireLens — AI Recruitment Platform**
+
+LLM-powered recruitment platform for resume analysis, structured candidate scoring, asynchronous bulk resume processing, recruiter dashboard with role-based access, and browser-based video interview capture.
+
+**Repository:** [HireLens](https://github.com/rishiraj24/AI-interview-admin-dashboard)
+
 
 ---
 
